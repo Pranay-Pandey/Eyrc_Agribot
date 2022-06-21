@@ -33,10 +33,10 @@ The complete work was divided into 3 major tasks <br><br>
 <b> Task 0 </b> - Installation and setup of all the required programs and softwares. Generating a demo script that launches turtlebot and makes infinity symbol using it.
 
 
-<b> Task 1 </b> - Writing a script to move the robot around the 2 rows of plants so as to traverse all the plants in the rows using the wheels of the robot.
+<b> Task 1 </b> - Writing a script to move the robot around the 2 rows of plants so as to traverse all the plants in the rows using the wheels of the robot. - https://youtu.be/5xzdTefGpzw
 
 
-<b> Task 2 </b> - Writing script to pluck the fruits of a single plant placed in front of the robot using the robotic gripper attached to the agri bot using move-it planner.
+<b> Task 2 </b> - Writing script to pluck the fruits of a single plant placed in front of the robot using the robotic gripper attached to the agri bot using move-it planner. - https://youtu.be/OiOtVyjxwQk
 
 
 <b> Task 3 </b> - <br>
